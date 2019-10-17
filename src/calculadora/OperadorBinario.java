@@ -56,4 +56,8 @@ public class OperadorBinario {
         return a+"mod"+b;
     }
     
+    public static String geraPotencia(double a, double b){
+        return a+"^"+b;
+    }
+    
 }
